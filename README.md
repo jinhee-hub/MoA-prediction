@@ -7,7 +7,7 @@ It includes NFKB_inhibitor, Dopamine_receptor_antagonist, Calcium_cahnnel_blocke
 this project aims for analyzing patterns in genomic database with known MoAs. We used RBF kernel Regression, MultiLayer Perceptron, and TabNet for MoA prediction.
 
 
-## File organization
+## File organization - Bo Peng, Kyeong Joo Jung, Jinhee Lee, Zhenhao Lu
 -----------------------------------------------------
 input directory: includes datasets
 
