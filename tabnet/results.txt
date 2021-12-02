@@ -1,0 +1,3 @@
+validation fold 9 : 13.815953713018917
+CV score fold :  13.816136438869735
+auc mean :  0.4810253727940995
