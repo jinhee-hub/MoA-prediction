@@ -1,5 +1,5 @@
 # MoA-prediction
-MoA prediction for the drug discovery <from Kaggle: https://www.kaggle.com/c/lish-moa>
+MoA prediction for the drug discovery <from Kaggle: https://www.kaggle.com/c/lish-moa >
 
 For the drug discovery, scientists labeled some features for protein data, and they called it Mechanism-of-action(MoA).
 It includes NFKB_inhibitor, Dopamine_receptor_antagonist, Calcium_cahnnel_blocker, ...
