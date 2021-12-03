@@ -1,13 +1,15 @@
 # MoA-prediction
 MoA prediction for the drug discovery <from Kaggle: https://www.kaggle.com/c/lish-moa >
 
+Team members: - Bo Peng, Kyeong Joo Jung, Jinhee Lee, Zhenhao Lu
+
 For the drug discovery, scientists labeled some features for protein data, and they called it Mechanism-of-action(MoA).
 It includes NFKB_inhibitor, Dopamine_receptor_antagonist, Calcium_cahnnel_blocker, ...
 
 this project aims for analyzing patterns in genomic database with known MoAs. We used RBF kernel Regression, MultiLayer Perceptron, and TabNet for MoA prediction.
 
 
-## File organization - Bo Peng, Kyeong Joo Jung, Jinhee Lee, Zhenhao Lu
+## File organization 
 -----------------------------------------------------
 input directory: includes datasets
 
